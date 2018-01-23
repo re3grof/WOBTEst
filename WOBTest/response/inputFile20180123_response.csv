@@ -1,0 +1,43 @@
+a;ERROR;OrderItemId is not valid! OrderId is not valid! BuyerName is empty! BuyerEmail is not valid! Address is empty! Postcode is not valid! SalePrice is not valid or lower than 1.0! ShippingPrice is not valid or lower than 0.0! SKU is empty! Status is not valid! 
+1;ERROR;BuyerEmail is not valid! OrderDate is not valid! 
+2;ERROR;BuyerEmail is not valid! 
+3;ERROR;OrderId alredy exist! OrderItemId alredy exist! 
+4;ERROR;OrderDate is not valid! 
+5;ERROR;OrderId alredy exist! OrderItemId alredy exist! 
+6;ERROR;OrderId alredy exist! OrderItemId alredy exist! 
+7;ERROR;Status is not valid! 
+8;ERROR;OrderId alredy exist! 
+9;ERROR;OrderId alredy exist! 
+10;ERROR;OrderId alredy exist! 
+11;ERROR;OrderItemId is not valid! Status is not valid! 
+12;ERROR;OrderId alredy exist! 
+13;ERROR;Status is not valid! 
+14;ERROR;OrderId alredy exist! OrderItemId alredy exist! 
+15;ERROR;OrderId is not valid! 
+16;ERROR;Status is not valid! 
+17;ERROR;OrderId alredy exist! OrderItemId alredy exist! 
+18;ERROR;OrderId alredy exist! OrderItemId alredy exist! 
+19;ERROR;OrderId alredy exist! OrderItemId alredy exist! 
+20;ERROR;OrderId alredy exist! OrderItemId alredy exist! 
+21;ERROR;Status is not valid! 
+22;ERROR;OrderId alredy exist! OrderItemId alredy exist! 
+23;ERROR;Status is not valid! 
+24;ERROR;OrderId alredy exist! OrderItemId alredy exist! 
+25;ERROR;OrderId alredy exist! OrderItemId alredy exist! 
+26;ERROR;OrderId alredy exist! OrderItemId alredy exist! 
+27;ERROR;OrderId alredy exist! OrderItemId alredy exist! 
+28;ERROR;OrderId alredy exist! OrderItemId alredy exist! 
+29;ERROR;OrderId alredy exist! OrderItemId alredy exist! 
+30;ERROR;OrderId alredy exist! OrderItemId alredy exist! 
+31;ERROR;OrderId alredy exist! OrderItemId alredy exist! 
+32;ERROR;OrderId alredy exist! OrderItemId alredy exist! 
+33;ERROR;OrderId alredy exist! OrderItemId alredy exist! 
+34;ERROR;OrderId alredy exist! OrderItemId alredy exist! 
+35;ERROR;OrderId alredy exist! OrderItemId alredy exist! 
+36;ERROR;OrderId alredy exist! OrderItemId alredy exist! 
+37;ERROR;OrderId alredy exist! OrderItemId alredy exist! 
+38;ERROR;OrderId alredy exist! OrderItemId alredy exist! 
+39;ERROR;OrderId alredy exist! OrderItemId alredy exist! 
+40;ERROR;OrderId alredy exist! OrderItemId alredy exist! 
+41;ERROR;OrderId alredy exist! OrderItemId alredy exist! 
+42;ERROR;OrderId alredy exist! OrderItemId alredy exist! 

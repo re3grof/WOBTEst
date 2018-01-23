@@ -1,0 +1,11 @@
+LineNumber;OrderItemId;OrderId;BuyerName;BuyerEmail;Address;PostCode;SalePrice;ShippingPrice;SKU;Status;OrderDate
+
+0;;;;;;;;;;;;
+a;a;b;;aaaa;;fgh;as;fgh;;asd; 
+1;2;3;ssdf fdse;a@b;dasdad;123;0.8;-2.8;dasdasf;in_stock;20171223
+2;3;4;gdsgdg grtgt;a@b.c;fgewhtrwhr;23124;3.7;0.00;fdfdsafg;out_of_stock;2018-01-20
+3;3;4;gdsgdg grtgt;valaki@freemail.hu;fgewhtrwhr;23124;3.7;0.00;fdfdsafg;out_of_stock;2018-01-20
+4;3;4;gdsgdg grtgt;valaki@valami.hu;fgewhtrwhr;23124;3.7;0.50;fdfdsafg;in_stock;2018-01-2
+5;4;5;gdsgdg grtgt;valaki@freemail.hu;fgewhtrwhr;23124;3.7;0.00;fdfdsafg;out_of_stock;2018-01-20
+6;5;6;gdsgdg grtgt;valaki@freemail.hu;fgewhtrwhr;23124;6.5;6.00;fdfdsafg;out_of_stock;2018-01-20
+7;6;7;gdsgdg grtgt;valaki@freemail.hu;fgewhtrwhr;23124;3.7;1.00;fdfdsafg;out_of_stock;2018-01-20

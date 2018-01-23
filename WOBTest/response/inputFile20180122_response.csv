@@ -1,0 +1,9 @@
+0;ERROR;OrderItemId is not valid! OrderId is not valid! BuyerName is empty! BuyerEmail is empty! Address is empty! Postcode is not valid! SalePrice is not valid or lower than 1.0! ShippingPrice is not valid or lower than 0.0! SKU is empty! Status is empty! 
+a;ERROR;OrderItemId is not valid! OrderId is not valid! BuyerName is empty! BuyerEmail is not valid! Address is empty! Postcode is not valid! SalePrice is not valid or lower than 1.0! ShippingPrice is not valid or lower than 0.0! SKU is empty! Status is not valid! 
+1;ERROR;BuyerEmail is not valid! OrderDate is not valid! 
+2;ERROR;BuyerEmail is not valid! 
+3;ERROR;OrderId alredy exist! OrderItemId alredy exist! 
+4;ERROR;OrderDate is not valid! 
+5;ERROR;OrderId alredy exist! OrderItemId alredy exist! 
+6;ERROR;OrderId alredy exist! OrderItemId alredy exist! 
+7;ERROR;OrderId alredy exist! OrderItemId alredy exist! 
